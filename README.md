@@ -52,5 +52,18 @@ pacman-key-tipp.txt
 
 * Necessary pacman commands to install manually something in chrooted environment
 
+create-pkgs-image.sh
+---------------------
 
+* Create pkgs-image.sqfs necessary for graphics drivers (needs to run after kernel update)
+
+Packages-Xorg
+--------------
+
+* Graphic drivers for pkgs-image.sqfs 32bit and 64bit packages
+
+pacman-gfx.conf
+----------------
+
+* Local package archive for pkgs-image
 
