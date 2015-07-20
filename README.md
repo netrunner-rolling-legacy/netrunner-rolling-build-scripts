@@ -1,4 +1,4 @@
-netrunnerarch-build-scripts
+netrunner-rolling-build-scripts
 ===========================
 
 Some useful scripts to manually build netrunnerarch.
